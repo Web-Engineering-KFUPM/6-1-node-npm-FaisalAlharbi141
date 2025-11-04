@@ -205,5 +205,3 @@ switch(operation){
 }
 console.log(`Result: ${result}`);
 
-
-
